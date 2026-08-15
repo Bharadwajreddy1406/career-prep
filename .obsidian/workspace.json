@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "88f46743767dc3ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,14 +179,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "511b4ee6a6217382",
+  "active": "88f46743767dc3ba",
   "lastOpenFiles": [
+    "Go Lang/Go.md",
+    "Go Lang/0_why_go !.md",
+    "Concepts and Resources/Concepts on Everything.md",
+    "Concepts and Resources/LLM API rate limiting issue handling on prod/LLM API key rate limiting issues.md",
+    "README.md",
+    "LLM API key rate limiting issues.md",
+    "Concepts and Resources/LLM API rate limiting issue handling on prod",
+    "Concepts and Resources",
+    "Go Lang",
     "Only Java Here/Java.md",
     "Only Java Here/Only Java.md",
     "Basics/Untitled.md",
     "Only Java Here/java_progs/Agent Code Translation.md",
     "Only Java Here",
-    "README.md",
     "Leetcode/131 Palindrome Partitioning.md",
     "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/LEETCODE 🤖.md",
@@ -192,11 +211,6 @@
     "Leetcode/314 Binary Tree Vertical Order Traversal.md",
     "Leetcode/545 Boundary Traversal of the Binary Tree.md",
     "Leetcode/100 Same Tree.md",
-    "Leetcode/TOPICS/Prefix sum.md",
-    "Leetcode/TOPICS/GREEDY.md",
-    "Leetcode/3355 Zero-array-transformation I.md",
-    "Only Java Here/java_progs/Building Tree with Inorder and PreOrder.md",
-    "Leetcode/124 . Binary Tree Maximum Path Sum.md",
     "shared_Images/851.png",
     "Untitled.canvas",
     "shared_Images/Trie.png",
@@ -212,9 +226,6 @@
     "Only Java Here/Quizzes/Quizcyber.pdf",
     "Only Java Here/Quizzes/parallel_progs.pdf",
     "Only Java Here/Quizzes/jwt.pdf",
-    "Only Java Here/Quizzes/decisionTree.pdf",
-    "Only Java Here/Quizzes/day-11.pdf",
-    "Only Java Here/Quizzes/day-05Quiz.pdf",
     "shared_Images/leetcode 22.png",
     "73-1.png"
   ]
