@@ -11,10 +11,14 @@
             "id": "511b4ee6a6217382",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -153,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,13 +170,19 @@
   },
   "active": "511b4ee6a6217382",
   "lastOpenFiles": [
+    "Only Java Here/Java.md",
+    "Only Java Here/Only Java.md",
+    "Basics/Untitled.md",
+    "Only Java Here/java_progs/Agent Code Translation.md",
+    "Only Java Here",
+    "README.md",
     "Leetcode/131 Palindrome Partitioning.md",
     "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/LEETCODE 🤖.md",
     "Leetcode/TOPICS/Binary Search.md",
-    "java_progs/Spirit Bottles.md",
+    "Only Java Here/java_progs/Spirit Bottles.md",
     "Leetcode/TOPICS/DP.md",
-    "java_progs/Toggle Sequence (Wiggle Sequence).md",
+    "Only Java Here/java_progs/Toggle Sequence (Wiggle Sequence).md",
     "Leetcode/583 Delete Operation for Two Strings.md",
     "Leetcode/1035 Uncrossed Lines.md",
     "Leetcode/5 Longest palindromic substring.md",
@@ -182,33 +195,27 @@
     "Leetcode/TOPICS/Prefix sum.md",
     "Leetcode/TOPICS/GREEDY.md",
     "Leetcode/3355 Zero-array-transformation I.md",
-    "java_progs/Building Tree with Inorder and PreOrder.md",
+    "Only Java Here/java_progs/Building Tree with Inorder and PreOrder.md",
     "Leetcode/124 . Binary Tree Maximum Path Sum.md",
-    "Leetcode/1004 Max Consecutive Ones III.md",
-    "Leetcode/94 Inorder Traversal.md",
-    "Leetcode/144 PreOrder Traversal.md",
-    "Leetcode/543 Diameter of a Binary tree.md",
-    "Leetcode/110 Balanced Binary Tree.md",
-    "Images/851.png",
+    "shared_Images/851.png",
     "Untitled.canvas",
-    "Images/Trie.png",
+    "shared_Images/Trie.png",
     "Pasted image 20250422214134.png",
-    "Images/1358-image1.png",
-    "Images/1358-image2.png",
-    "Images/763-leetcode.png",
-    "Images/73_2.png",
-    "Images/47 leetcode.png",
-    "Quizzes/transformer.pdf",
-    "Quizzes/s3quiz.pdf",
-    "Quizzes/QuizStream.pdf",
-    "Quizzes/Quizcyber.pdf",
-    "Quizzes/parallel_progs.pdf",
-    "Quizzes/jwt.pdf",
-    "Quizzes/decisionTree.pdf",
-    "Quizzes/day-11.pdf",
-    "Quizzes/day-05Quiz.pdf",
-    "Quizzes/day-03Quiz.pdf",
-    "Images/leetcode 22.png",
+    "shared_Images/1358-image1.png",
+    "shared_Images/1358-image2.png",
+    "shared_Images/763-leetcode.png",
+    "shared_Images/73_2.png",
+    "shared_Images/47 leetcode.png",
+    "Only Java Here/Quizzes/transformer.pdf",
+    "Only Java Here/Quizzes/s3quiz.pdf",
+    "Only Java Here/Quizzes/QuizStream.pdf",
+    "Only Java Here/Quizzes/Quizcyber.pdf",
+    "Only Java Here/Quizzes/parallel_progs.pdf",
+    "Only Java Here/Quizzes/jwt.pdf",
+    "Only Java Here/Quizzes/decisionTree.pdf",
+    "Only Java Here/Quizzes/day-11.pdf",
+    "Only Java Here/Quizzes/day-05Quiz.pdf",
+    "shared_Images/leetcode 22.png",
     "73-1.png"
   ]
 }

@@ -1,0 +1,10 @@
+[[Only Java Here/OOPS/Q1|Q1]]
+[[Only Java Here/OOPS/Q2|Q2]]
+[[Only Java Here/OOPS/Q3|Q3]]
+[[Q4]]
+[[Q5]]
+[[Q6]]
+[[Q7]]
+[[Q8]]
+[[Q9]]
+
