@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"139d3a8d4151979b","type":"text","text":"Main Agent \n\n- Does orchestration\n- handles hand off \n- agent routing\n- Streams  content and sub agent messages","x":-580,"y":45,"width":245,"height":270},
+		{"id":"064708febf818242","type":"text","text":"Data Agent\n---\n- has Access to Real time GET API's on product\n- Accepts Plan Provided by Main agent and executes tools \n- Gets the structured plan from the Knowledge agent and uses tools with user's access token\n- Has retry mechanism and can perform tool calls with different params \n- Handles Response data compaction and \n- Handles modes like search and detail \n- Aggregates insights weekly, monthly, based on volume","x":660,"y":315,"width":520,"height":380},
+		{"id":"06ba9fd388a74ef1","type":"text","text":"Knowledge Agent\n- Has access to Vector stores\n- Has access to Skills\n- Decides the intent and clarifies if it's a Knowledge request or data request \nand responds to Only Main agent","x":320,"y":-420,"width":340,"height":260},
+		{"id":"4165842dc540aeb0","type":"text","text":"Visualization Agent\n---\nreturns json artifacts that are rendered in the front-end\n\nuses .py files with a visualization skill that tells the agent to clearly decide type of viz based on data and generate the spec which will be streamed to Fronted and rendered ","x":-280,"y":600,"width":454,"height":310}
+	],
+	"edges":[
+		{"id":"1aac4798aa196242","fromNode":"139d3a8d4151979b","fromSide":"right","toNode":"06ba9fd388a74ef1","toSide":"left","label":"hand off"},
+		{"id":"91e9ab48db8a0a86","fromNode":"139d3a8d4151979b","fromSide":"right","toNode":"064708febf818242","toSide":"left","label":"hand off"},
+		{"id":"920995f2e91b7bfb","fromNode":"139d3a8d4151979b","fromSide":"right","toNode":"4165842dc540aeb0","toSide":"left","label":"hand off"},
+		{"id":"9247d9edccbe547b","fromNode":"06ba9fd388a74ef1","fromSide":"bottom","toNode":"139d3a8d4151979b","toSide":"right","label":"responds to "},
+		{"id":"af6124eca769846b","fromNode":"4165842dc540aeb0","fromSide":"top","toNode":"139d3a8d4151979b","toSide":"right","label":"returns artifacts"},
+		{"id":"ff26689ee4856e29","fromNode":"064708febf818242","fromSide":"top","toNode":"139d3a8d4151979b","toSide":"right","label":"responds to"}
+	]
+}
