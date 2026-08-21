@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "302cf63f642fb78c",
+        "id": "7f910d71ce1c6a1c",
         "type": "tabs",
         "children": [
           {
-            "id": "8015e673e3ebf8a3",
+            "id": "3618afb39706fd45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Concepts and Resources/AWS Agent Core & Strands.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AWS Agent Core & Strands"
             }
           }
         ]
@@ -164,9 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8015e673e3ebf8a3",
+  "active": "3618afb39706fd45",
   "lastOpenFiles": [
     "Concepts and Resources/Concepts on Everything.md",
+    "Concepts and Resources/AWS Agent Core & Strands.md",
+    "Agent Poc/Strands AWS/Ts Project Setup with Strands.md",
+    "Agent Poc/USE uv NOT pip.md",
+    "Agent Poc/Strands AWS",
     "README.md",
     "Agent Poc/OpenShell PoC/Open shell Deep agents PoC.md",
     "Agent Poc/OpenShell PoC/Langchain Deep agents/Deep agents.md",
@@ -176,7 +184,6 @@
     "Agent Poc/OpenShell PoC/Nvidia Openshell/openshell.md",
     "Agent Poc/Helix architecture version 1.0.canvas",
     "Agent Poc/Resources.md",
-    "Agent Poc/USE uv NOT pip.md",
     "Agent Poc/vs code/vs code tools.md",
     "Agent Poc/vs code/Plan, Ask, Explore Agents/agent.md",
     "Go Lang/Go.md",
@@ -195,8 +202,6 @@
     "Leetcode/TOPICS/BACKTRACKING.md",
     "Leetcode/LEETCODE 🤖.md",
     "Leetcode/TOPICS/Binary Search.md",
-    "Only Java Here/java_progs/Spirit Bottles.md",
-    "Leetcode/TOPICS/DP.md",
     "shared_Images/851.png",
     "Untitled.canvas",
     "shared_Images/Trie.png",
@@ -211,7 +216,6 @@
     "Only Java Here/Quizzes/QuizStream.pdf",
     "Only Java Here/Quizzes/Quizcyber.pdf",
     "Only Java Here/Quizzes/parallel_progs.pdf",
-    "Only Java Here/Quizzes/jwt.pdf",
     "shared_Images/leetcode 22.png",
     "73-1.png"
   ]
