@@ -4,35 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "2364bdcc631d7f13",
+        "id": "7f910d71ce1c6a1c",
         "type": "tabs",
         "children": [
           {
-            "id": "511b4ee6a6217382",
+            "id": "3618afb39706fd45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Agent Poc/Strands AWS/LLM flow in strands.canvas",
+                "viewState": {
+                  "x": -32.897941657133515,
+                  "y": 978.5797324021628,
+                  "zoom": -1.1746238410542795
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "88f46743767dc3ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-layout-dashboard",
+              "title": "LLM flow in strands"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +171,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88f46743767dc3ba",
+  "active": "3618afb39706fd45",
   "lastOpenFiles": [
+    "Agent Poc/Strands AWS/AWS Agent Core & Strands.md",
+    "Agent Poc/Strands AWS/Notes from Documentation.md",
+    "Agent Poc/Strands AWS/LLM flow in strands.canvas",
+    "Only Java Here/java_progs/19 _Youth Festival.md",
+    "Only Java Here/java_progs/18 _TrieExample.java",
+    "Only Java Here/java_progs/17 _Toggle Sequence (Wiggle Sequence).md",
+    "Only Java Here/java_progs/16 _Sushi Conveyer belt.md",
+    "Only Java Here/java_progs/15 _Spirit Bottles.md",
+    "Only Java Here/java_progs/14 _SegmentTree.java",
+    "Only Java Here/java_progs/13 _Robot Signal.md",
+    "Only Java Here/java_progs/12 _Most Frequent Dishes (With Trie).md",
+    "Only Java Here/java_progs/11 _Minimum suffix flips to reach final state.md",
+    "Only Java Here/java_progs/10 _Maximum Items That Can Be Delivered into Building Rooms.md",
+    "Only Java Here/java_progs/09 _Java programs in FS.md",
+    "Only Java Here/java_progs/08 _Finding numbers sum up to K in 2 BST's.md",
+    "Only Java Here/java_progs/07 _Find the 2 numbers with occurrence as 1.md",
+    "Only Java Here/java_progs/06 _Find Anagram Positions.md",
+    "Only Java Here/java_progs/05 _DSU1.java",
+    "Only Java Here/java_progs/04 _Building Tree with Inorder and PreOrder.md",
     "Only Java Here/java_progs/03 _Building Blocks WALL.md",
     "Only Java Here/java_progs/02 _Build Tree with Inorder & Postorder.md",
     "Only Java Here/java_progs/01 _Agent Code Translation.md",
@@ -191,35 +202,15 @@
     "Only Java Here/Quizzes/08 _parallel_progs.pdf",
     "Only Java Here/Quizzes/07 _jwt.pdf",
     "Only Java Here/Quizzes/06 _decisionTree.pdf",
-    "Only Java Here/Quizzes/05 _day-11.pdf",
-    "Only Java Here/Quizzes/04 _day-05Quiz.pdf",
-    "Only Java Here/Quizzes/03 _day-03Quiz.pdf",
     "Go Lang/2_variables_and_values.md",
     "Go Lang/1_go_program_structure.md",
-    "Concepts and Resources/Books/src.md",
-    "Concepts and Resources/Books/Know later.md",
-    "Agent Poc/vs code/Plan, Ask, Explore Agents/Plan Agent.md",
-    "Agent Poc/vs code/Plan, Ask, Explore Agents/Explore Agent.md",
-    "Agent Poc/vs code/Plan, Ask, Explore Agents/Ask Agent.md",
-    "Agent Poc/vs code/Plan, Ask, Explore Agents/agent.md",
-    "Agent Poc/vs code/vs code tools.md",
-    "Agent Poc/vs code/Agent turn System Prompt.md",
-    "Agent Poc/USE uv NOT pip.md",
-    "Agent Poc/Strands AWS/Ts Project Setup with Strands.md",
+    "Agent Poc/OpenShell PoC/Langchain Deep agents/Need These for Writing Code.md",
     "Agent Poc/Strands AWS/Strands - AWS.md",
-    "Agent Poc/Strands AWS/AWS Agent Core & Strands.md",
-    "Agent Poc/Resources.md",
-    "Agent Poc/OpenShell PoC/Langchain Deep agents/Tools desc in deep agent/Write Todo's  Prompts.md",
-    "Agent Poc/OpenShell PoC/Langchain Deep agents/Tools desc in deep agent/Sub Agent.md",
-    "Agent Poc/OpenShell PoC/Langchain Deep agents/Internet search basic/Internet Search Quickstart.md",
-    "Agent Poc/OpenShell PoC/Langchain Deep agents/Internet search basic/additional system prompt to Agent.md",
-    "Agent Poc/OpenShell PoC/Nvidia Openshell/Sources.md",
-    "Agent Poc/OpenShell PoC/Nvidia Openshell/Quick start.md",
-    "Agent Poc/OpenShell PoC/Nvidia Openshell/Openshell Nvidia.md",
-    "Agent Poc/OpenShell PoC/Nvidia Openshell/environment details.md",
+    "Agent Poc/Agent PoC's.md",
+    "Concepts and Resources/Concepts on Everything.md",
+    "Agent Poc/Strands AWS/Ts Project Setup with Strands.md",
     "Agent Poc/Helix architecture version 1.0.canvas",
     "shared_Images/851.png",
-    "Untitled.canvas",
     "shared_Images/Trie.png",
     "Pasted image 20250422214134.png",
     "shared_Images/1358-image1.png",
