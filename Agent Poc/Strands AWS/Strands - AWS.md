@@ -1,5 +1,5 @@
 
 [[AWS Agent Core & Strands]]
 
-[[Ts Project Setup with Strands]]
+[[Python Project Setup with Strands]]
 
