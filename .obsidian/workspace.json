@@ -16,8 +16,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2e621c4353df16fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts and Resources/Concepts on Everything.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concepts on Everything"
+            }
+          },
+          {
+            "id": "41175a1f3123c9d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts and Resources/Human In the Loop/HITL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HITL"
+            }
+          },
+          {
+            "id": "73d195439bb9539d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts and Resources/Human In the Loop/Interrupts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interrupts"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,8 +207,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e26a041a434d9b5",
+  "active": "73d195439bb9539d",
   "lastOpenFiles": [
+    "Concepts and Resources/Human In the Loop/HITL.md",
+    "Concepts and Resources/Concepts on Everything.md",
+    "Concepts and Resources/Human In the Loop/Interrupts.md",
+    "OTEL Tracing Observability/Decorators.md",
+    "Concepts and Resources/Human In the Loop",
+    "OTEL Tracing Observability/Observability.md",
+    "OTEL Tracing Observability",
     "Go Lang/Go.md",
     "Go Lang/2_variables_and_values.md",
     "Leetcode/TOPICS/ARRAYS.md",
@@ -190,19 +240,12 @@
     "Only Java Here/java_progs/09 _Java programs in FS.md",
     "Only Java Here/java_progs/08 _Finding numbers sum up to K in 2 BST's.md",
     "Only Java Here/java_progs/07 _Find the 2 numbers with occurrence as 1.md",
-    "Only Java Here/java_progs/06 _Find Anagram Positions.md",
     "Only Java Here/java_progs/05 _DSU1.java",
-    "Only Java Here/java_progs/04 _Building Tree with Inorder and PreOrder.md",
-    "Only Java Here/java_progs/03 _Building Blocks WALL.md",
-    "Only Java Here/java_progs/02 _Build Tree with Inorder & Postorder.md",
-    "Only Java Here/java_progs/01 _Agent Code Translation.md",
     "Only Java Here/Quizzes/12 _s3quiz.pdf",
     "Only Java Here/Quizzes/11 _QuizStream.pdf",
     "Only Java Here/Quizzes/10 _transformer.pdf",
     "Only Java Here/Quizzes/09 _Quizcyber.pdf",
     "Only Java Here/Quizzes/08 _parallel_progs.pdf",
-    "Only Java Here/Quizzes/07 _jwt.pdf",
-    "Only Java Here/Quizzes/06 _decisionTree.pdf",
     "Agent Poc/Helix architecture version 1.0.canvas",
     "shared_Images/851.png",
     "shared_Images/Trie.png",
